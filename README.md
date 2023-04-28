@@ -31,7 +31,7 @@ Testing application address:
 <p> Bugs: </p>
 
 * <b> ST-1 </b> - The email link placed at the top of the page is not working
-![ST-1](https://raw.githubusercontent.com/Caounee/documents/main/ST-1.png?token=GHSAT0AAAAAACBMYDZNU3NIRIG7OKUMIJQSZCLYTTQ)
+![ST-1](https://github.com/Caounee/skleptest/blob/main/ST-1.png)
 
 * <b> ST-2 </b> - In the navigation menu, two tabs are highlighted
 ![ST-2](https://github.com/Caounee/skleptest/blob/main/ST-2.png)
