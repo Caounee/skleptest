@@ -34,55 +34,55 @@ Testing application address:
 ![ST-1](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-1.png)
 
 * <b> ST-2 </b> - In the navigation menu, two tabs are highlighted
-![ST-2](https://github.com/Caounee/skleptest/blob/main/ST-2.png)
+![ST-2](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-2.png)
 
 * <b> ST-3 </b> - The "Most wanted" header text on the page moves when you click on a tab in the navigation menu
-![ST-3](https://github.com/Caounee/skleptest/blob/main/ST-3.png)
+![ST-3](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-3.png)
 
 * <b> ST-4 </b> - There is no correct link to the "About us" tab
-![ST-4](https://github.com/Caounee/skleptest/blob/main/ST-4.png)
+![ST-4](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-4.png)
 
 * <b> ST-5 </b> - After clicking on the "Contact" tab, the page stretches unattractively
-![ST-5](https://github.com/Caounee/skleptest/blob/main/ST-5.png)
+![ST-5](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-5.png)
 
 * <b> ST-6 </b> - The map with the marked location is not displaying in the "Contact" tab
-![ST-6](https://github.com/Caounee/skleptest/blob/main/ST-6.png)
+![ST-6](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-6.png)
 
 * <b> ST-7 </b> - After clicking on the "Blog" tab, it redirects us to the wrong page
-![ST-7](https://github.com/Caounee/skleptest/blob/main/ST-7.png)
+![ST-7](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-7.png)
 
 * <b> ST-8 </b> - The "Shop Now" page is displaying as inaccessible
-![ST-8](https://github.com/Caounee/skleptest/blob/main/ST-8.png)
+![ST-8](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-8.png)
 
 * <b> ST-9 </b> - The "Learn More" tab leads to the "Contact" page
-![ST-9](https://github.com/Caounee/skleptest/blob/main/ST-9.png)
+![ST-9](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-9.png)
 
 * <b> ST-10 </b> - The product image for "Black Top" is not being displayed, and the text below it is positioned higher compared to other products
-![ST-10](https://github.com/Caounee/skleptest/blob/main/ST-10.png)
+![ST-10](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-10.pngg)
 
 * <b> ST-11 </b> - In the "Contact" tab, the text displaying the navigation tabs is positioned on the left side
-![ST-11](https://github.com/Caounee/skleptest/blob/main/ST-11.png)
+![ST-11](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-11.png)
 
 * <b> ST-12 </b> - The "View cart" button is not working after adding a product to the cart
-![ST-12](https://github.com/Caounee/skleptest/blob/main/ST-12.png)
+![ST-12](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-12.png)
 
 * <b> ST-13 </b> - The arrows intended for scrolling through the products on the page are taking us to the top of the page instead
-![ST-13](https://github.com/Caounee/skleptest/blob/main/ST-13.png)
+![ST-13](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-13.png)
 
 * <b> ST-14 </b> - The "Buy now" button in the "All black tops" section redirects us to a page with a message about the lack of content
-![ST-14](https://github.com/Caounee/skleptest/blob/main/ST-14.png)
+![ST-14](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-14.png)
 
 * <b> ST-15 </b> - The "Buy now" button in the "High heel shoes" section redirects us to a page with a message about the lack of content
-![ST-15](https://github.com/Caounee/skleptest/blob/main/ST-15.png)
+![ST-15](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-15.png)
 
 * <b> ST-16 </b> - The "Amari Shirt" product does not have any star ratings, causing the text below the image to be positioned higher compared to the adjacent product
-![ST-16](https://github.com/Caounee/skleptest/blob/main/ST-16.png)
+![ST-16](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-16.png)
 
 * <b> ST-17 </b> - The product image for "Blue sweater" is not displayed, and the text below it is positioned higher compared to other products
-![ST-17](https://github.com/Caounee/skleptest/blob/main/ST-17.png)
+![ST-17](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-17.png)
 
 * <b> ST-18 </b> - The products in the "On sale" section do not appear to be marked as on sale
-![ST-18](https://github.com/Caounee/skleptest/blob/main/ST-18.png)
+![ST-18](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-18.png)
 
 ## :sparkles: Summary
 
