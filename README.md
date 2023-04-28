@@ -3,7 +3,8 @@
 Testing application address:
 * https://skleptest.pl/
 
-## :sparkles: Test assumptions:
+## :sparkles: Test assumptions
+
 <p> Tester's first name: </p>
 
 * Manuela
