@@ -58,7 +58,7 @@ Testing application address:
 ![ST-9](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-9.png)
 
 * <b> ST-10 </b> - The product image for "Black Top" is not being displayed, and the text below it is positioned higher compared to other products
-![ST-10](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-10.pngg)
+![ST-10](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-10.png)
 
 * <b> ST-11 </b> - In the "Contact" tab, the text displaying the navigation tabs is positioned on the left side
 ![ST-11](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-11.png)
