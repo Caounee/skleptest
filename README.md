@@ -27,7 +27,7 @@ Testing application address:
 
 <p> Tested application elements: </p>
 
- *	homepage - visual inspection and checking if the links leading to subpages work properly
+ *	homepage - checked for usability, functionality, and visual aspects
 
 <p> Bugs: </p>
 
