@@ -19,7 +19,7 @@ Testing application address:
 
 * Monosnap – screenshots
 
-## :sparkles: Conclusions
+## :sparkles: Conclusion
 
 <p> Evaluation: </p>
 
