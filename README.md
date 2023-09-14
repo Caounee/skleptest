@@ -45,9 +45,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 <a id="homepage"> ☑️ Homepage </a>
 
-Coś takiego -​|
-
-|       —: |  [🔼 scroll to top 🔼](#top)
+[🔼 scroll to top 🔼](#top)-​|
 
 
 * <b> SK-1 </b> - Invalid tab highlighting in navigation menu (two tabs highlighted)
