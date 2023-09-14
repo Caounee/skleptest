@@ -66,7 +66,29 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> SK-7 </b> - Typo in the word "Catergries" in the menu tab
 ![SK-7](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-7.jpg)
 
+* <b> SK-8 </b> - Product incompatibility with the "All Black Tops" section
+![SK-8](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-8.jpg)
 
+* <b> SK-9 </b> - Lack of redirection after clicking the Email address
+![SK-9](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-9.jpg)
+
+* <b> SK-10 </b> - Invalid "Shop Now" button link next to "2016 Autumn Collection"
+![SK-10](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-10.jpg)
+
+* <b> SK-11 </b> - Invalid "Learn More" button link next to "2016 Autumn Collection"
+![SK-11](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-11.jpg)
+
+* <b> SK-12 </b> - Non-functioning "View cart" button after adding product to cart
+![SK-12](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-12.jpg)
+
+* <b> SK-13 </b> - Malfunctioning product scroll arrows on page
+![SK-13](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-13.jpg)
+
+* <b> SK-14 </b> - Incorrect redirect from the "Buy Now" button in the "Save up to 50% on our black tops" section
+![SK-14](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-14.jpg)
+
+* <b> SK-15 </b> - 	Incorrect redirect from the "Buy Now" button in the "Save up to 50% on our high heels" section
+![SK-15](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-15.jpg)
 
 <a id="menu"> ☑️ Menu </a>
 <a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
@@ -79,29 +101,8 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 
 
-* <b> ST-8 </b> - The "Shop Now" page is displaying as inaccessible
-![ST-8](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-8.png)
 
-* <b> ST-9 </b> - The "Learn More" tab leads to the "Contact" page
-![ST-9](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-9.png)
 
-* <b> ST-10 </b> - The product image for "Black Top" is not being displayed, and the text below it is positioned higher compared to other products
-![ST-10](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-10.png)
-
-* <b> ST-11 </b> - In the "Contact" tab, the text displaying the navigation tabs is positioned on the left side
-![ST-11](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-11.png)
-
-* <b> ST-12 </b> - The "View cart" button is not working after adding a product to the cart
-![ST-12](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-12.png)
-
-* <b> ST-13 </b> - The arrows intended for scrolling through the products on the page are taking us to the top of the page instead
-![ST-13](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-13.png)
-
-* <b> ST-14 </b> - The "Buy now" button in the "All black tops" section redirects us to a page with a message about the lack of content
-![ST-14](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-14.png)
-
-* <b> ST-15 </b> - The "Buy now" button in the "High heel shoes" section redirects us to a page with a message about the lack of content
-![ST-15](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-15.png)
 
 * <b> ST-16 </b> - The "Amari Shirt" product does not have any star ratings, causing the text below the image to be positioned higher compared to the adjacent product
 ![ST-16](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-16.png)
