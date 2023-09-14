@@ -174,7 +174,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 ![SK-42](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-42.jpg)
 
 * <b> SK-43 </b> - Incorrect number of displayed comments for the posts
-![SK-43](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-43.jpg)
+![SK-43](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-43.2.jpg)
 
 * <b> SK-44 </b> - Incorrect redirect after clicking on the author of the comment
 ![SK-44](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-44.jpg)
@@ -230,21 +230,21 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 ![SK-58](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-58.jpg)
 
 * <b> SK-59 </b> - Centering text on the products page
-![SK-59](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-59.jpg)
+![SK-59](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-59.1.jpg)
 
 <a id="search"> ☑️ Search </a>
 
 * <b> SK-60 </b> - Different text spacing between text in search results
-![SK-60](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-60.jpg)
+![SK-60](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-60.2.jpg)
 
 * <b> SK-61 </b> - There is no spacing from the next element after the search bar
-![SK-61](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-61.jpg)
+![SK-61](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-61.2.jpg)
 
 * <b> SK-62 </b> - The button has a different height compared to the search bar
-![SK-62](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-62.jpg)
+![SK-62](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-62.2.jpg)
 
 * <b> SK-63 </b> - The page stretches when entering long text in the search bar
-![SK-63](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-63.jpg)
+![SK-63](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-63.2.jpg)
 
 
 ## :sparkles: Summary
