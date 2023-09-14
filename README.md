@@ -4,33 +4,33 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 * ✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 
-#### Testing application address:
+## :sparkles: Testing application address:
 * https://skleptest.pl/
 
 ## :sparkles: Test assumptions
 
-####  Tester's first name:
+###  Tester's first name:
 
 * Manuela
   
-#### Date and time of test execution:
+### Date and time of test execution:
 
 * 14-31.08.2023 (9:00 - 16:00)
 * 04-13.09.2023 (10:00 – 15:00)
   
-#### Environment:
+### Environment:
 
 * Windows 10 Pro 64-bit
 * Google Chrome version 115, 116
   
-#### Summary of tools used:
+### Summary of tools used:
 
 * Jira - bug reporting
 * Monosnap – screenshots
 
 ## :sparkles: Conclusion
 
-#### Tested application elements:
+### Tested application elements:
 
 *	<b> homepage </b> - usability, functionality, overall appearance assessment, links, footer, display of products on the website
 * <b> menu </b> - menu tabs, links, checking subpages from the menu
@@ -40,7 +40,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> product pages </b> - product descriptions, photos
 * <b> search </b> - checking the search function
 
-#### Evaluation:
+### Evaluation:
 
 * The <b> homepage </b> is easy to use and friendly for users. However, there are some problems that affect the overall rating of the application. Some issues make it harder to shop, and the lack of product pictures means we don't know what the product looks like, so we won't buy it. Some links don't work.
 * Not all <b> menu </b> cards contain the right things on the page. When you look through the menu, it's easy to notice many mistakes.
