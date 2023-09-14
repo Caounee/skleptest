@@ -44,6 +44,30 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 #### Bugs:
 
 <a id="homepage"> ☑️ Homepage </a>
+
+* <b> SK-1 </b> - Invalid tab highlighting in navigation menu (two tabs highlighted)
+![SK-1](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-1.jpg)
+
+* <b> SK-2 </b> - Display and positioning issues with "Black Top" product due to missing product image
+![SK-2](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-2.jpg)
+
+* <b> SK-3 </b> - Inconsistent products display - presence of ratings and uneven text alignment
+![SK-3](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-3.jpg)
+
+* <b> SK-4 </b> - Display and positioning issues with "Blue Sweater" product due to missing product image
+![SK-4](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-4.jpg)
+
+* <b> SK-5 </b> - Invalid price in "Sale" section
+![SK-5](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-5.jpg)
+
+* <b> SK-6 </b> - Products incompatibility with the "High Heel Shoes" section
+![SK-6](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-6.jpg)
+
+* <b> SK-7 </b> - Typo in the word "Catergries" in the menu tab
+![SK-7](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-7.jpg)
+
+
+
 <a id="menu"> ☑️ Menu </a>
 <a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
 <a id="user_account"> ☑️ User account </a>
@@ -54,36 +78,6 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 
 
-
-
-
-
-
-
-
-
-
-
-* <b> ST-1 </b> - The email link placed at the top of the page is not working
-![ST-1](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-1.png)
-
-* <b> ST-2 </b> - In the navigation menu, two tabs are highlighted
-![ST-2](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-2.png)
-
-* <b> ST-3 </b> - The "Most wanted" header text on the page moves when you click on a tab in the navigation menu
-![ST-3](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-3.png)
-
-* <b> ST-4 </b> - There is no correct link to the "About us" tab
-![ST-4](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-4.png)
-
-* <b> ST-5 </b> - After clicking on the "Contact" tab, the page stretches unattractively
-![ST-5](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-5.png)
-
-* <b> ST-6 </b> - The map with the marked location is not displaying in the "Contact" tab
-![ST-6](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-6.png)
-
-* <b> ST-7 </b> - After clicking on the "Blog" tab, it redirects us to the wrong page
-![ST-7](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-7.png)
 
 * <b> ST-8 </b> - The "Shop Now" page is displaying as inaccessible
 ![ST-8](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-8.png)
