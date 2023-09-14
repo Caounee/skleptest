@@ -30,17 +30,19 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 #### Evaluation:
 
-* The homepage is simple to navigate and user-friendly. There are defects that affect the overall assessment of the application. Some defects hinder the purchase process  the lack of a product image leaves us unaware of what the product looks like.
+* The <b> homepage </b> is easy to use and friendly for users. However, there are some problems that affect the overall rating of the application. Some issues make it harder to shop, and the lack of product pictures means we don't know what the product looks like, so we won't buy it. Some links don't work.
+* Not all <b> menu </b> tabs have the right stuff on the page. When you go through the menu, you can see mistakes that are easy to notice.
+* There are problems with managing products in the <b> shopping cart </b>. The checkout page is confusing for the user
 
 #### Tested application elements:
 
-*	homepage - usability, functionality, overall appearance assessment, links, footer, display of products on the website
-* menu - menu tabs, links, checking subpages from the menu
-* cart and ordering process - adding products to the cart, removing and changing the quantity of products, the ordering process
-* user account - account management functions
-* product sorting
-* product pages - product descriptions, photos
-* search - checking the search function
+*	<b> homepage </b> - usability, functionality, overall appearance assessment, links, footer, display of products on the website
+* <b> menu </b> - menu tabs, links, checking subpages from the menu
+* <b> cart and ordering process </b> - adding products to the cart, removing and changing the quantity of products, the ordering process
+* <b> user account </b> - account management functions
+* <b> product sorting </b>
+* <b> product pages </b> - product descriptions, photos
+* <b> search </b> - checking the search function
 
 ## :sparkles: Bugs:
 
