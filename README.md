@@ -87,7 +87,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> SK-14 </b> - Incorrect redirect from the "Buy Now" button in the "Save up to 50% on our black tops" section
 ![SK-14](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-14.jpg)
 
-* <b> SK-15 </b> - 	Incorrect redirect from the "Buy Now" button in the "Save up to 50% on our high heels" section
+* <b> SK-15 </b> - Incorrect redirect from the "Buy Now" button in the "Save up to 50% on our high heels" section
 ![SK-15](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-15.jpg)
 
 <a id="menu"> ☑️ Menu </a>
@@ -98,6 +98,36 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> SK-17 </b> - Centering text on the "Most Wanted" page
 ![SK-17](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-17.1.jpg)
 
+* <b> SK-18 </b> - Header text misalignment on category tab pages from the "Catergries" menu
+![SK-18](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-18.jpg)
+
+* <b> SK-19 </b> - No highlighting of the selected tab in the "Catergries" menu
+![SK-19](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-19.jpg)
+
+* <b> SK-20 </b> - Incorrect singular form in the "Blouse" category tab in the "Catergries" navigation menu
+![SK-20](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-20.jpg)
+
+* <b> SK-21 </b> - No category "Belts" in the "All" tab of the "Catergries" menu 	
+![SK-21](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-21.jpg)
+
+* <b> SK-22 </b> - Centering text on the "Catergries" tabs
+![SK-22](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-22.1.jpg)
+
+* <b> SK-23 </b> - Incorrect page number selection
+![SK-23](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-23.jpg)
+
+* <b> SK-24 </b> - Incorrect page number selection
+![SK-24](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-24.jpg)
+
+* <b> SK-25 </b> - Display and positioning issues with "Visual M. T-Shirt" product due to missing product image
+![SK-25](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-25.jpg)
+
+* <b> SK-26 </b> - Inconsistent products display in the "Shirts" tab - presence of ratings and uneven text alignment
+![SK-26](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-26.jpg)
+
+* <b> SK-27 </b> - Products incompatibility with the "Shoes" category
+![SK-27](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-27.jpg)
+
 
 
 <a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
@@ -107,9 +137,30 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 <a id="search"> ☑️ Search </a>
 
 
+* <b> SK- </b> - 
+![SK-]()
 
-* <b> ST-18 </b> - The products in the "On sale" section do not appear to be marked as on sale
-![ST-18](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-18.png)
+* <b> SK- </b> - 
+![SK-]()
+
+* <b> SK- </b> - 
+![SK-]()
+
+* <b> SK- </b> - 
+![SK-]()
+
+* <b> SK- </b> - 
+![SK-]()
+
+* <b> SK- </b> - 
+![SK-]()
+
+* <b> SK- </b> - 
+![SK-]()
+
+* <b> SK- </b> - 
+![SK-]()
+
 
 ## :sparkles: Summary
 
