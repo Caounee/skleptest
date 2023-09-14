@@ -128,6 +128,38 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> SK-27 </b> - Products incompatibility with the "Shoes" category
 ![SK-27](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-27.jpg)
 
+* <b> SK-28 </b> - Inconsistent products display in the "Shoes" tab - presence of ratings and uneven text alignment
+![SK-28](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-28.jpg)
+
+* <b> SK-29 </b> - Product incompatibility with the "Tops" category
+![SK-29](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-29.jpg)
+
+* <b> SK-30 </b> - Product incompatibility with the "Blouse" category
+![SK-30](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-30.jpg)
+
+* <b> SK-31 </b> - Inconsistent products display in the "Jeans" tab - presence of ratings and uneven text alignment
+![SK-31](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-31.jpg)
+
+* <b> SK-32 </b> - Incorrect content in "About Us" tab
+![SK-32](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-32.jpg)
+
+* <b> SK-33 </b> - Invalid tab highlighting in navigation menu (two tabs highlighted) in "About Us" page
+![SK-33](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-33.jpg)
+
+* <b> SK-34 </b> - Misaligned navigation in "Contact" tab
+![SK-34](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-34.jpg)
+
+* <b> SK-35 </b> - Problem with displaying the map, which results in stretching the page in the "Contact" tab
+![SK-35](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-35.jpg)
+
+* <b> SK-36 </b> - Unable to contact via the form on the "Contact" page when all fields are filled out
+![SK-36](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-36.jpg)
+
+* <b> SK-37 </b> - The appearance of a rectangle when attempting to submit the form on the "Contact" page
+![SK-37](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-37.jpg)
+
+* <b> SK-38 </b> - Unable to contact through the form on the "Contact" page when only the required fields are filled out
+![SK-38](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-38.jpg)
 
 
 <a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
@@ -137,11 +169,9 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 <a id="search"> ☑️ Search </a>
 
 
-* <b> SK- </b> - 
-![SK-]()
 
-* <b> SK- </b> - 
-![SK-]()
+* <b> SK-38 </b> - Unable to contact through the form on the "Contact" page when only the required fields are filled out
+![SK-38](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-38.jpg)
 
 * <b> SK- </b> - 
 ![SK-]()
