@@ -45,7 +45,9 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 <a id="homepage"> ☑️ Homepage </a>
 
-[🔼 Go to top of page](#top)
+Coś takiego -​|
+
+|       —: |  [🔼 scroll to top 🔼](#top)
 
 
 * <b> SK-1 </b> - Invalid tab highlighting in navigation menu (two tabs highlighted)
@@ -92,7 +94,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 * <b> SK-15 </b> - Incorrect redirect from the "Buy Now" button in the "Save up to 50% on our high heels" section
 ![SK-15](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-15.jpg)
-
+___
 <a id="menu"> ☑️ Menu </a>
 
 * <b> SK-16 </b> - Header text misalignment on the "Most Wanted" page
@@ -184,7 +186,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 * <b> SK-45 </b> - Shifted checkbox on the comment submission form
 ![SK-45](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-45.jpg)
-
+___
 <a id="shopping_cart_and_ordering_process"> ☑️ Shopping cart and ordering process </a>
 
 * <b> SK-46 </b> - The cross button on the shopping cart page is not working
@@ -204,7 +206,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 * <b> SK-51 </b> - Incorrect default quantity for adding products to cart
 ![SK-51](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-51.jpg)
-
+___
 <a id="user_account"> ☑️ User account </a>
 
 * <b> SK-52 </b> - Error when attempting registration with a long email address
@@ -215,12 +217,12 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 * <b> SK-54 </b> - Invalid content on the user account details page
 ![SK-54](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-54.jpg)
-
+___
 <a id="product_sorting"> ☑️ Product sorting </a>
 
 * <b> SK-55 </b> - No action after clicking "Sort by price" button
 ![SK-55](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-55.jpg)
-
+___
 <a id="product_pages"> ☑️ Product pages </a>
 
 * <b> SK-56 </b> - Header text misalignment on products pages
@@ -234,7 +236,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 * <b> SK-59 </b> - Centering text on the products page
 ![SK-59](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-59.1.jpg)
-
+___
 <a id="search"> ☑️ Search </a>
 
 * <b> SK-60 </b> - Different text spacing between text in search results
