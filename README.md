@@ -33,7 +33,13 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 #### Tested application elements:
 
- *	homepage - checked for usability, functionality, and visual aspects
+*	homepage - checked for usability, functionality, and visual aspects
+* menu -
+* cart and ordering process -
+* user account -
+* product sorting -
+* product pages -
+* search -
 
 #### Bugs:
 
@@ -41,7 +47,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 <a id="menu"> ☑️ Menu </a>
 <a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
 <a id="user_account"> ☑️ User account </a>
-<a id="product_sorting"> ☑️ Product_sorting </a>
+<a id="product_sorting"> ☑️ Product sorting </a>
 <a id="product_pages"> ☑️ Product pages </a>
 <a id="search"> ☑️ Search </a>
 
