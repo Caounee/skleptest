@@ -1,4 +1,4 @@
-# :boom: Exploratory tests of the application :boom:
+# :boom: Exploratory tests of the web application :boom:
 
 Testing application address:
 * https://skleptest.pl/
