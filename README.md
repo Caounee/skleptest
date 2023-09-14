@@ -2,6 +2,8 @@
 
 I conducted exploratory tests of the application. I used the Jira tool. I divided the tests into several stages: <i> • [homepage](#homepage) • [menu](#menu) • [shopping cart and ordering process](#shopping_cart_and_ordering_process) • [user account](#user_account) • [product sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i>
 
+* ✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
+
 #### Testing application address:
 * https://skleptest.pl/
 
