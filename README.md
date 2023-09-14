@@ -13,12 +13,13 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
   
 #### Date and time of test execution:
 
-* 26.04.2023 (13:15 – 14:15)
-* 27.04.2023 (9:00 – 11:15)
+* 14-31.08.2023 (9:00 - 16:00)
+* 04-13.09.2023 (10:00 – 15:00)
   
 #### Environment:
 
-* Windows 10 Pro 64-bit, Google Chrome 112
+* Windows 10 Pro 64-bit
+* Google Chrome version 115, 116
   
 #### Summary of tools used:
 
@@ -33,15 +34,15 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 #### Tested application elements:
 
-*	homepage - checked for usability, functionality, and visual aspects
-* menu -
-* cart and ordering process -
-* user account -
-* product sorting -
-* product pages -
-* search -
+*	homepage - usability, functionality, overall appearance assessment, links, footer, display of products on the website
+* menu - menu tabs, links, checking subpages from the menu
+* cart and ordering process - adding products to the cart, removing and changing the quantity of products, the ordering process
+* user account - account management functions
+* product sorting
+* product pages - product descriptions, photos
+* search - checking the search function
 
-#### Bugs:
+## :sparkles: Bugs:
 
 <a id="homepage"> ✔ Homepage </a> [[🔼 scroll up 🔼](#top)]
 
@@ -246,15 +247,3 @@ ___
 
 * <b> SK-63 </b> - The page stretches when entering long text in the search bar
 ![SK-63](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-63.2.jpg)
-
-
-## :sparkles: Summary
-
-#### In further tests, the following require additional attention:
-
-*	product category page
-*	product detail page
-*	product search functionality
-*	filters on other pages
-*	shopping cart
-*	user account
