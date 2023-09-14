@@ -161,6 +161,26 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> SK-38 </b> - Unable to contact through the form on the "Contact" page when only the required fields are filled out
 ![SK-38](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-38.jpg)
 
+* <b> SK-39 </b> - Misaligned navigation and incorrect display in "Blog" tab
+![SK-39](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-39.jpg)
+
+* <b> SK-40 </b> - Incompatibility in displaying posts in the "Blog" tab
+![SK-40](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-40.jpg)
+
+* <b> SK-41 </b> - Duplicate search bar on the "Blog" page
+![SK-41](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-41.jpg)
+
+* <b> SK-42 </b> - Different text spacing in the blog menu on the right
+![SK-42](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-42.jpg)
+
+* <b> SK-43 </b> - Incorrect number of displayed comments for the posts
+![SK-43](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-43.jpg)
+
+* <b> SK-44 </b> - Incorrect redirect after clicking on the author of the comment
+![SK-44](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-44.jpg)
+
+* <b> SK-45 </b> - Shifted checkbox on the comment submission form
+![SK-45](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-45.jpg)
 
 <a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
 <a id="user_account"> ☑️ User account </a>
@@ -170,8 +190,8 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 
 
-* <b> SK-38 </b> - Unable to contact through the form on the "Contact" page when only the required fields are filled out
-![SK-38](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-38.jpg)
+* <b> SK-45 </b> - Shifted checkbox on the comment submission form
+![SK-45](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-45.jpg)
 
 * <b> SK- </b> - 
 ![SK-]()
