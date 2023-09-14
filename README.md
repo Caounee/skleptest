@@ -1,35 +1,62 @@
-# :boom: Exploratory tests of the web application :boom:
+# :boom:  skleptest.pl - exploratory testing of the web application [Jira] :boom:
 
-Testing application address:
+I conducted exploratory tests of the application. I used the Jira tool. I divided the tests into several stages: <i> • [homepage](#homepage) • [menu](#menu) • [cart and ordering process](#cart_and_ordering_process) • [user account](#user_account) • [product_sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i>
+
+#### Testing application address:
 * https://skleptest.pl/
 
 ## :sparkles: Test assumptions
 
-<p> Tester's first name: </p>
+####  Tester's first name:
 
 * Manuela
-<p> Date and time of test execution: </p>
+  
+#### Date and time of test execution:
 
 * 26.04.2023 (13:15 – 14:15)
 * 27.04.2023 (9:00 – 11:15)
-<p> Environment: </p>
+  
+#### Environment:
 
 * Windows 10 Pro 64-bit, Google Chrome 112
-<p> Summary of tools used: </p>
+  
+#### Summary of tools used:
 
+* Jira - bug reporting
 * Monosnap – screenshots
 
 ## :sparkles: Conclusion
 
-<p> Evaluation: </p>
+#### Evaluation:
 
 * The homepage is simple to navigate and user-friendly. There are defects that affect the overall assessment of the application. Some defects hinder the purchase process  the lack of a product image leaves us unaware of what the product looks like.
 
-<p> Tested application elements: </p>
+#### Tested application elements:
 
  *	homepage - checked for usability, functionality, and visual aspects
 
-<p> Bugs: </p>
+#### Bugs:
+
+<a id="homepage"> ☑️ Homepage </a>
+<a id="menu"> ☑️ Menu </a>
+<a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
+<a id="user_account"> ☑️ User account </a>
+<a id="product_sorting"> ☑️ Product_sorting </a>
+<a id="product_pages"> ☑️ Product pages </a>
+<a id="search"> ☑️ Search </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * <b> ST-1 </b> - The email link placed at the top of the page is not working
 ![ST-1](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-1.png)
@@ -87,7 +114,7 @@ Testing application address:
 
 ## :sparkles: Summary
 
-<p> In further tests, the following require additional attention: </p>
+#### In further tests, the following require additional attention:
 
 *	product category page
 *	product detail page
