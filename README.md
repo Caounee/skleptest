@@ -91,6 +91,15 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 ![SK-15](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-15.jpg)
 
 <a id="menu"> ☑️ Menu </a>
+
+* <b> SK-16 </b> - Header text misalignment on the "Most Wanted" page
+![SK-16](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-16.jpg)
+
+* <b> SK-17 </b> - Centering text on the "Most Wanted" page
+![SK-17](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-17.1.jpg)
+
+
+
 <a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
 <a id="user_account"> ☑️ User account </a>
 <a id="product_sorting"> ☑️ Product sorting </a>
@@ -98,17 +107,6 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 <a id="search"> ☑️ Search </a>
 
 
-
-
-
-
-
-
-* <b> ST-16 </b> - The "Amari Shirt" product does not have any star ratings, causing the text below the image to be positioned higher compared to the adjacent product
-![ST-16](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-16.png)
-
-* <b> ST-17 </b> - The product image for "Blue sweater" is not displayed, and the text below it is positioned higher compared to other products
-![ST-17](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-17.png)
 
 * <b> ST-18 </b> - The products in the "On sale" section do not appear to be marked as on sale
 ![ST-18](https://raw.githubusercontent.com/Caounee/skleptest/images/ST-18.png)
