@@ -28,12 +28,6 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 ## :sparkles: Conclusion
 
-#### Evaluation:
-
-* The <b> homepage </b> is easy to use and friendly for users. However, there are some problems that affect the overall rating of the application. Some issues make it harder to shop, and the lack of product pictures means we don't know what the product looks like, so we won't buy it. Some links don't work.
-* Not all <b> menu </b> tabs have the right stuff on the page. When you go through the menu, you can see mistakes that are easy to notice.
-* There are problems with managing products in the <b> shopping cart </b>. The checkout page is confusing for the user
-
 #### Tested application elements:
 
 *	<b> homepage </b> - usability, functionality, overall appearance assessment, links, footer, display of products on the website
@@ -43,6 +37,16 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> product sorting </b>
 * <b> product pages </b> - product descriptions, photos
 * <b> search </b> - checking the search function
+
+#### Evaluation:
+
+* The <b> homepage </b> is easy to use and friendly for users. However, there are some problems that affect the overall rating of the application. Some issues make it harder to shop, and the lack of product pictures means we don't know what the product looks like, so we won't buy it. Some links don't work.
+* Not all <b> menu </b> cards contain the right things on the page. When you look through the menu, it's easy to notice many mistakes.
+* There are problems with managing products in the <b> shopping cart </b>. The checkout page is confusing for the user.
+* The <b> user account </b> page is hard to understand. You can't manage your account.
+* The <b> product sorting </b> by price doesn't work.
+* On the <b> product pages </b>, some of them don't have pictures, and the buttons for looking at pictures don't work. Besides a few mistakes, the product page looks nice.
+* The <b> search </b> function has a few visual errors.
 
 ## :sparkles: Bugs:
 
