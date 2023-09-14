@@ -1,6 +1,6 @@
 # :boom:  skleptest.pl - exploratory testing of the web application [Jira] :boom:
 
-I conducted exploratory tests of the application. I used the Jira tool. I divided the tests into several stages: <i> • [homepage](#homepage) • [menu](#menu) • [cart and ordering process](#cart_and_ordering_process) • [user account](#user_account) • [product_sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i>
+I conducted exploratory tests of the application. I used the Jira tool. I divided the tests into several stages: <i> • [homepage](#homepage) • [menu](#menu) • [shopping cart and ordering process](#shopping_cart_and_ordering_process) • [user account](#user_account) • [product_sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i>
 
 #### Testing application address:
 * https://skleptest.pl/
@@ -182,34 +182,69 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> SK-45 </b> - Shifted checkbox on the comment submission form
 ![SK-45](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-45.jpg)
 
-<a id="cart_and_ordering_process"> ☑️ Cart and ordering process </a>
+<a id="shopping_cart_and_ordering_process"> ☑️ Shopping cart and ordering process </a>
+
+* <b> SK-46 </b> - The cross button on the shopping cart page is not working
+![SK-46](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-46.jpg)
+
+* <b> SK-47 </b> - After changing the quantity of the product, making another quantity change doesn't work
+![SK-47](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-47.jpg)
+
+* <b> SK-48 </b> - The non-functioning coupon code addition button
+![SK-48](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-48.jpg)
+
+* <b> SK-49 </b> - Unreadable checkout page
+![SK-49](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-49.jpg)
+
+* <b> SK-50 </b> - Non-functioning order print button
+![SK-50](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-50.jpg)
+
+* <b> SK-51 </b> - Incorrect default quantity for adding products to cart
+![SK-51](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-51.jpg)
+
 <a id="user_account"> ☑️ User account </a>
+
+* <b> SK-52 </b> - Error when attempting registration with a long email address
+![SK-52](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-52.jpg)
+
+* <b> SK-53 </b> - Unreadable user account page
+![SK-53](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-53.jpg)
+
+* <b> SK-54 </b> - Invalid content on the user account details page
+![SK-54](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-54.jpg)
+
 <a id="product_sorting"> ☑️ Product sorting </a>
+
+* <b> SK-55 </b> - No action after clicking "Sort by price" button
+![SK-55](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-55.jpg)
+
 <a id="product_pages"> ☑️ Product pages </a>
+
+* <b> SK-56 </b> - Header text misalignment on products pages
+![SK-56](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-56.jpg)
+
+* <b> SK-57 </b> - Non-functioning buttons in the enlarged view on the product page
+![SK-57](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-57.jpg)
+
+* <b> SK-58 </b> - The "Add to cart" button on the products pages is not working
+![SK-58](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-58.jpg)
+
+* <b> SK-59 </b> - Centering text on the products page
+![SK-59](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-59.jpg)
+
 <a id="search"> ☑️ Search </a>
 
+* <b> SK-60 </b> - Different text spacing between text in search results
+![SK-60](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-60.jpg)
 
+* <b> SK-61 </b> - There is no spacing from the next element after the search bar
+![SK-61](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-61.jpg)
 
-* <b> SK-45 </b> - Shifted checkbox on the comment submission form
-![SK-45](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-45.jpg)
+* <b> SK-62 </b> - The button has a different height compared to the search bar
+![SK-62](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-62.jpg)
 
-* <b> SK- </b> - 
-![SK-]()
-
-* <b> SK- </b> - 
-![SK-]()
-
-* <b> SK- </b> - 
-![SK-]()
-
-* <b> SK- </b> - 
-![SK-]()
-
-* <b> SK- </b> - 
-![SK-]()
-
-* <b> SK- </b> - 
-![SK-]()
+* <b> SK-63 </b> - The page stretches when entering long text in the search bar
+![SK-63](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-63.jpg)
 
 
 ## :sparkles: Summary
