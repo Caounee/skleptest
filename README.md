@@ -43,9 +43,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 #### Bugs:
 
-<a id="homepage"> ☑️ Homepage </a>
-
-[🔼 scroll to top 🔼](#top)-​|
+<a id="homepage"> ✔ Homepage </a> [[🔼 scroll to the top page 🔼](#top)]
 
 
 * <b> SK-1 </b> - Invalid tab highlighting in navigation menu (two tabs highlighted)
@@ -93,7 +91,7 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 * <b> SK-15 </b> - Incorrect redirect from the "Buy Now" button in the "Save up to 50% on our high heels" section
 ![SK-15](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-15.jpg)
 ___
-<a id="menu"> ☑️ Menu </a>
+<a id="menu"> ✔ Menu </a> [[🔼 scroll to the top page 🔼](#top)]
 
 * <b> SK-16 </b> - Header text misalignment on the "Most Wanted" page
 ![SK-16](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-16.jpg)
@@ -185,7 +183,7 @@ ___
 * <b> SK-45 </b> - Shifted checkbox on the comment submission form
 ![SK-45](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-45.jpg)
 ___
-<a id="shopping_cart_and_ordering_process"> ☑️ Shopping cart and ordering process </a>
+<a id="shopping_cart_and_ordering_process"> ✔ Shopping cart and ordering process </a> [[🔼 scroll to the top page 🔼](#top)]
 
 * <b> SK-46 </b> - The cross button on the shopping cart page is not working
 ![SK-46](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-46.jpg)
@@ -205,7 +203,7 @@ ___
 * <b> SK-51 </b> - Incorrect default quantity for adding products to cart
 ![SK-51](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-51.jpg)
 ___
-<a id="user_account"> ☑️ User account </a>
+<a id="user_account"> ✔ User account </a> [[🔼 scroll to the top page 🔼](#top)]
 
 * <b> SK-52 </b> - Error when attempting registration with a long email address
 ![SK-52](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-52.jpg)
@@ -216,12 +214,12 @@ ___
 * <b> SK-54 </b> - Invalid content on the user account details page
 ![SK-54](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-54.jpg)
 ___
-<a id="product_sorting"> ☑️ Product sorting </a>
+<a id="product_sorting"> ✔ Product sorting </a> [[🔼 scroll to the top page 🔼](#top)]
 
 * <b> SK-55 </b> - No action after clicking "Sort by price" button
 ![SK-55](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-55.jpg)
 ___
-<a id="product_pages"> ☑️ Product pages </a>
+<a id="product_pages"> ✔ Product pages </a> [[🔼 scroll to the top page 🔼](#top)]
 
 * <b> SK-56 </b> - Header text misalignment on products pages
 ![SK-56](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-56.jpg)
@@ -235,7 +233,7 @@ ___
 * <b> SK-59 </b> - Centering text on the products page
 ![SK-59](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-59.1.jpg)
 ___
-<a id="search"> ☑️ Search </a>
+<a id="search"> ✔ Search </a> [[🔼 scroll to the top page 🔼](#top)]
 
 * <b> SK-60 </b> - Different text spacing between text in search results
 ![SK-60](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-60.2.jpg)
