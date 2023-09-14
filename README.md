@@ -1,4 +1,4 @@
-# :boom:  [skleptest.pl - exploratory testing of the web application [Jira]](#top) :boom:
+# :boom: <a id="top"> skleptest.pl - exploratory testing of the web application [Jira] </a> :boom:
 
 I conducted exploratory tests of the application. I used the Jira tool. I divided the tests into several stages: <i> • [homepage](#homepage) • [menu](#menu) • [shopping cart and ordering process](#shopping_cart_and_ordering_process) • [user account](#user_account) • [product_sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i>
 
@@ -45,7 +45,8 @@ I conducted exploratory tests of the application. I used the Jira tool. I divide
 
 <a id="homepage"> ☑️ Homepage </a>
 
-<a id="top"> 🔼 Go to top of page </a>
+[🔼 Go to top of page](#top)
+
 
 * <b> SK-1 </b> - Invalid tab highlighting in navigation menu (two tabs highlighted)
 ![SK-1](https://raw.githubusercontent.com/Caounee/skleptest/images/SK-1.jpg)
