@@ -1,6 +1,10 @@
 # :boom: <a id="top"> skleptest.pl - exploratory testing of the web application [Jira] </a> :boom:
 
-I conducted exploratory tests of the application. I used the Jira tool. I divided the tests into several stages: <i> • [homepage](#homepage) • [menu](#menu) • [shopping cart and ordering process](#shopping_cart_and_ordering_process) • [user account](#user_account) • [product sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i>
+By testing Trello API, we can check how the interaction with the Trello application works. I based my tests on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I grouped the tests into several sets: <i> • [homepage](#homepage) • [menu](#menu) • [shopping cart and ordering process](#shopping_cart_and_ordering_process) • [user account](#user_account) • [product sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i>
+
+* technologies: REST API
+* tools: Postman
+* methods: create, get, update, delete
 
 ✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 
