@@ -3,7 +3,7 @@
 My tests of a sample website. I grouped the tests into several sets: <i> • [homepage](#homepage) • [menu](#menu) • [shopping cart and ordering process](#shopping_cart_and_ordering_process) • [user account](#user_account) • [product sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). I found a lot of bugs, which I included in my portfolio. </i>
 
 * type of tests: exploratory testing
-• tools: Jira, Monosnap
+* tools: Jira, Monosnap
 
 ✔️ [screenshots of bug reports on Google Drive](https://drive.google.com/drive/folders/1HZiAgsz2lYCKehnEDEZRamY82VIiPgc_?usp=sharing)
 
